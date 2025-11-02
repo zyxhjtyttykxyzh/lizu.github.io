@@ -26,7 +26,7 @@
 文件路径：
 - 公共样式：`styles.css`
 - 公共脚本：`app.js`
-- 页面：`index.html`, `characters.html`, `story.html`, `products.html`, `checkout.html`, `support.html`, `emojis.html`
+- 页面：`index.html`, `characters.html`, `story.html`, `products.html`, `checkout.html`, `support.html`, `emojis.html`, `baisisi.html`, `suqiqi.html`, `zhongtaotao.html`
 
 ## 支付说明（模拟）
 结算页仅做表单与流程演示，不会真实扣款。提交后会显示支付成功并清空购物车。
@@ -41,14 +41,17 @@
 ├─ checkout.html
 ├─ support.html
 ├─ emojis.html
+├─ baisisi.html
+├─ suqiqi.html
+├─ zhongtaotao.html
 ├─ styles.css
 ├─ app.js
 └─ assets/
    └─ images/
       ├─ trio-hero.jpg (自备)
-      ├─ taotao.png (自备)
+      ├─ taotao.jpg (自备)
       ├─ sisi.png (自备)
-      ├─ qiqi.png (自备)
+      ├─ qiqi.jpg (自备)
       ├─ products/ (自备)
       └─ emoji/ (自备)
 ```
