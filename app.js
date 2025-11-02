@@ -133,7 +133,7 @@ function bootstrapProducts(){
 	const products = [
 		{ id:'p1', name:'陶陶·青花杯', price:59, image:'images/cup_taotao.jpg' },
 		{ id:'p2', name:'思思·瓷纹帆布袋', price:89, image:'images/tote_sisi.jpg' },
-		{ id:'p3', name:'琦琦·釉彩挂件', price:49, image:'images/charm_qiqi.jpg' },
+		{ id:'p3', name:'琦琦·釉彩手办', price:49, image:'images/charm_qiqi.jpg' },
 		{ id:'p4', name:'三人·限量拼图', price:129, image:'images/puzzle_trio.jpg' }
 	];
 	products.forEach(p=>{
@@ -229,3 +229,4 @@ document.addEventListener('DOMContentLoaded', ()=>{
 		default: break;
 	}
 });
+
